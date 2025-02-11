@@ -14,6 +14,11 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Swiftful Thinking!")
+            
+            Button("Subscribe") {
+                
+            }
+            
             Button("Click Me") {
                 
             }
