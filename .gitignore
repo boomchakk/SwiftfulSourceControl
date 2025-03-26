@@ -1,0 +1,57 @@
+# Xcode
+.DS_Store
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.xcworkspace/
+xcuserdata/
+
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Derived Data & Logs
+DerivedData/
+*.log
+*.xcdebugger/
+
+# SwiftPM auto-generated files
+.swiftpm/
+sourcekit-lsp/
+
+# Playgrounds
+playground.xcworkspace
+playground.*
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Firebase
+GoogleService-Info.plist
+
+# Environment variables
+.env
+.env.*
+
+# Certificates & Provisioning Profiles
+*.mobileprovision
+*.cer
+*.p12
+*.key
+*.crt
+
+# Other ignored files
+*.orig

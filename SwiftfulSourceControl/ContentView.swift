@@ -12,7 +12,7 @@
  Staging = prepare
  Stash = save changes for later
  Push = Send local commits to remote repo
- Pull = 
+ Pull =
  
  COMMIT MESSAES
  
@@ -25,7 +25,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "heart.fill")
+            Image(systemName: "bolt.fill")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Swiftful Thinking!")
